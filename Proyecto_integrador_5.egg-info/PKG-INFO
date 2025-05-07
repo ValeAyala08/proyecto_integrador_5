@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Proyecto_integrador_5
+Version: 0.0.1
+Author: Valentina Ayala
+Author-email: 
+Requires-Dist: pandas==2.2.3
+Requires-Dist: openpyxl
+Requires-Dist: requests==2.32.3
+Dynamic: author
+Dynamic: requires-dist

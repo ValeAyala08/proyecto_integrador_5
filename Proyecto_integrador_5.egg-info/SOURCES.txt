@@ -1,0 +1,7 @@
+README.md
+setup.py
+Proyecto_integrador_5.egg-info/PKG-INFO
+Proyecto_integrador_5.egg-info/SOURCES.txt
+Proyecto_integrador_5.egg-info/dependency_links.txt
+Proyecto_integrador_5.egg-info/requires.txt
+Proyecto_integrador_5.egg-info/top_level.txt
