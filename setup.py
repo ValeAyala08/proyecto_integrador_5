@@ -10,6 +10,7 @@ setup(
     install_requires=[
         "pandas==2.2.3",
         "openpyxl",
-        "requests==2.32.3"
+        "requests==2.32.3",
+        "yfinance==0.2.59"
     ]
 ) 

@@ -1,0 +1,8 @@
+2025-05-07 18:45:48,742 - INFO - Iniciando recolección de datos para 005930.KS
+2025-05-07 18:45:48,742 - INFO - Descargando los datos desde Yahoo Finance.
+2025-05-07 18:45:49,312 - INFO - 6343 filas descargadas.
+2025-05-07 18:45:49,312 - INFO - Conectando a SQLite.
+2025-05-07 18:45:49,313 - WARNING - Como la tabla no existe se creara una nueva.
+2025-05-07 18:45:49,350 - INFO - SQLite actualizado. Total: 6343 registros.
+2025-05-07 18:45:49,350 - WARNING - No hay creado un archivo CSV, se creara uno nuevo.
+2025-05-07 18:45:49,400 - INFO - CSV actualizado. Total: 6343 registros.
