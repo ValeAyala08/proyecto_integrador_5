@@ -6,11 +6,11 @@ setup(
     author="Valentina Ayala",
     author_email="",
     description="",
-    py_modules=["actividad_1", "actividad_2"],
+    py_modules=["actividad_1","actividad_2"],
     install_requires=[
-        "pandas==2.1.4",       
-        "openpyxl==3.1.2",    
-        "requests==2.31.0",   
-        "yfinance==0.2.28"   
+        "pandas==2.2.3",
+        "openpyxl",
+        "requests==2.32.3",
+        "yfinance==0.2.40"
     ]
-)
+) 
