@@ -6,3 +6,8 @@
 2025-05-07 18:45:49,350 - INFO - SQLite actualizado. Total: 6343 registros.
 2025-05-07 18:45:49,350 - WARNING - No hay creado un archivo CSV, se creara uno nuevo.
 2025-05-07 18:45:49,400 - INFO - CSV actualizado. Total: 6343 registros.
+2025-05-07 21:58:15,602 - INFO - Iniciando recolección de datos para 005930.KS
+2025-05-07 21:58:15,602 - INFO - Descargando los datos desde Yahoo Finance.
+2025-05-07 21:58:15,970 - WARNING - No se descargaron datos.
+2025-05-07 21:58:15,970 - WARNING - No hay datos para guardar en SQLite.
+2025-05-07 21:58:15,970 - WARNING - No hay datos para guardar en el CSV.

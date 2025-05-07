@@ -6,5 +6,6 @@ Author-email:
 Requires-Dist: pandas==2.2.3
 Requires-Dist: openpyxl
 Requires-Dist: requests==2.32.3
+Requires-Dist: yfinance==0.2.40
 Dynamic: author
 Dynamic: requires-dist
